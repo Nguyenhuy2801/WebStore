@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb_sale_ver1"]=self["webpackChunkweb_sale_ver1"]||[]).push([[594],{603:function(e,n,u){u.r(n),u.d(n,{default:function(){return b}});var a=u(6768);const r={class:"about"},s=(0,a.Lk)("h1",null,"This is an about page",-1),t=[s];function c(e,n){return(0,a.uX)(),(0,a.CE)("div",r,t)}var l=u(1241);const i={},o=(0,l.A)(i,[["render",c]]);var b=o}}]);
+//# sourceMappingURL=about.474a51f4.js.map
